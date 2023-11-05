@@ -12,8 +12,8 @@ Hey there! I'm BlackCage, a 17-year-old enthusiast with a passion for programmin
 
 - 🖥️ Programming: I enjoy writing code and solving problems in Python and Java.
 - 🔒 Cybersecurity: Exploring the world of cybersecurity and staying updated on the latest threats and defense strategies.
-- 🧪 Research: I'm constantly inquisitive, and I love delving into new topics and conducting research.
 - 🔍 OSINT (Open Source Intelligence): I have a keen interest in OSINT, using open-source data to gather valuable information and insights.
+- 🧪 Research: I'm constantly inquisitive, and I love delving into new topics and conducting research.
 
 ## Languages
 
