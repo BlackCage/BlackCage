@@ -37,6 +37,14 @@ Let's connect and learn together. You can reach out to me on:
 
 Feel free to follow me, and I'd be happy to connect with you!
 
+## Maze of the Day
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BlackCage/BlackCage/main/IMGS/maze.png" width="200">
+  <br>
+  <sub>Maze of the Day: This maze changes <b>every day</b>!</sub>
+</p>
+
 ## Thank You
 
 Thank you for visiting my GitHub profile. I'm excited to be a part of the GitHub community and look forward to collaborating with fellow developers, sharing knowledge, and building amazing things together.
