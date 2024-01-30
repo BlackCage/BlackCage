@@ -20,6 +20,7 @@ Hey there! I'm BlackCage, a 18-year-old enthusiast with a passion for programmin
 Here are some of the programming languages I work with:
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=red)](https://www.rust-lang.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
