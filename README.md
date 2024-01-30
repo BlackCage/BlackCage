@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey there! I'm BlackCage, a 17-year-old enthusiast with a passion for programming, cybersecurity, research, and Open Source Intelligence (OSINT). I'm an open-minded individual eager to explore and learn about the world of technology. I believe in the power of curiosity and continuous self-improvement.
+Hey there! I'm BlackCage, a 18-year-old enthusiast with a passion for programming, cybersecurity, research, and Open Source Intelligence (OSINT). I'm an open-minded individual eager to explore and learn about the world of technology. I believe in the power of curiosity and continuous self-improvement.
 
 ## Interests
 
